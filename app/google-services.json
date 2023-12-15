@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258610368083",
+    "project_id": "dersee",
+    "storage_bucket": "dersee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258610368083:android:41bd3d7f14cef6e80c00a6",
+        "android_client_info": {
+          "package_name": "com.example.dersee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihkv53qoP2fG4V0lqDUG6K49opoT4v5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
